@@ -26,7 +26,6 @@
 
 RTC_HandleTypeDef hrtc;
 
-
 /* RTC init function */
 void MX_RTC_Init(void)
 {
