@@ -1,0 +1,12 @@
+../HARDWAVE/MPU6050/Src/mpu6050.c:12:9:MPU_Init	16	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:39:9:MPU_Set_Gyro_Fsr	16	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:47:9:MPU_Set_Accel_Fsr	16	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:55:9:MPU_Set_LPF	24	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:70:9:MPU_Set_Rate	24	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:82:9:MPU_Get_Temperature	24	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:96:9:MPU_Get_Gyroscope	32	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:112:9:MPU_Get_Accelerometer	32	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:131:9:MPU_Write_Len	24	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:162:9:MPU_Read_Len	16	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:191:9:MPU_Write_Byte	16	static
+../HARDWAVE/MPU6050/Src/mpu6050.c:214:9:MPU_Read_Byte	24	static

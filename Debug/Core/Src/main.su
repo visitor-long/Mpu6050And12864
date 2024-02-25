@@ -1,0 +1,10 @@
+../Core/Src/main.c:121:5:main	152	static
+../Core/Src/main.c:251:6:SystemClock_Config	88	static
+../Core/Src/main.c:298:13:filter_calculate	32	static
+../Core/Src/main.c:339:13:peak_update	16	static
+../Core/Src/main.c:360:13:slid_update	24	static
+../Core/Src/main.c:389:13:is_most_active	24	static
+../Core/Src/main.c:407:13:detect_step	32	static
+../Core/Src/main.c:441:6:HAL_usDelay	32	static
+../Core/Src/main.c:462:6:HAL_msDelay	24	static
+../Core/Src/main.c:476:6:Error_Handler	4	static,ignoring_inline_asm
